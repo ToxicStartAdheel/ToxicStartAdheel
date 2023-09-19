@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ToxicStartAdheel
+- 👀 I’m interested in Python and creating apps
+- 🌱 I’m currently learning Python, and I aim to learn more!!
+- Thanks for checking out my apps!
